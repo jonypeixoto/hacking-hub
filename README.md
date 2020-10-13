@@ -34,6 +34,7 @@
 * ) reboot - restart the machine (PC, Notebook, etc)
 * ) shutdown - turn off the machine (PC, Notebook, etc)
 * ) rm -rf (name file)- delete the file (name file)
+* ) CTRL + p - shows / types the last commands typed in the Prompt
 
 
 <h2>Linux Commands:</h2>
