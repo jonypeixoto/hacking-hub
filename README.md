@@ -1,23 +1,81 @@
-# Hacker-Tools-MIT
+# Hacking Tips and Tools 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/devsuperior/sds1-wmazoni/blob/master/LICENSE) 
 
-<h1>Syllabus Hacker Tools MIT</h1>
+<h1>Syllabus Hacker:</h1>
 
-<h2>
-- Course overview and virtual machines and containers
+<h4>
+Overview:
+<br/>
+<br/>
+- Virtual machines and containers
+<br/>
 - Shell and scripting
+<br/>
 - Command-line environment
+<br/>
 - Data wrangling
+<br/>
 - Editors
+<br/>
 - Version control
+<br/>
 - Dotfiles and backups
+<br/>
 - Automation and machine introspection
+<br/>  
 - Program introspection and package/dependency management
+ <br/>
 - OS customization and Remote Machines
+<br/>
 - Web and browsers
+<br/>
 - Security and privacy
-</h2>
+</h4>
 
-<h1> EXTRA </h1> 
+# About the project
+
+https://wmazoni-sds1.netlify.app
+
+Hacking Tips and Tools is a repository to show as many summarized experiences as possible about hacking the full stack web and mobile application built and organized by [Jony Peixoto](https://jonypeixoto.com "Site de Jony Peixoto").
+
+The application consists of a search by Google and externally to other networks such as the Deep Web and associates about the hacking world, where data is collected in operating systems: Windows, Linux, mainly in applications of internal tools of the Linux system.
+
+## Mobile Linux Layout 
+![Mobile 1](https://github.com/acenelio/assets/raw/main/sds1/mobile1.png) ![Mobile 2](https://github.com/acenelio/assets/raw/main/sds1/mobile2.png)
+
+## Desktop Linux Layout 
+![Mobile 1](https://github.com/acenelio/assets/raw/main/sds1/mobile1.png) ![Mobile 2](https://github.com/acenelio/assets/raw/main/sds1/mobile2.png)
+
+## Desktop Windows Layout
+![Web 1](https://github.com/acenelio/assets/raw/main/sds1/web1.png)
+
+![Web 2](https://github.com/acenelio/assets/raw/main/sds1/web2.png)
+
+## Modelo conceitual
+![Modelo Conceitual](https://github.com/acenelio/assets/raw/main/sds1/modelo-conceitual.png)
+
+# Technologies used
+
+## Back end
+- Java
+- Spring Boot
+- JPA / Hibernate
+- Maven
+## Front end
+- HTML / CSS / JS / TypeScript
+- ReactJS
+- React Native
+- Apex Charts
+- Expo
+## Implantação em produção
+- Back end: Heroku
+- Front end web: Netlify
+- Banco de dados: Postgresql
+
+# Como executar o projeto
+
+## Linux
+Pré-requisitos: Must have a device that runs the Linux operating system.
 
 <h1>Commands on the Linux Ubuntu:</h1>
 
@@ -67,5 +125,36 @@ SHIFT + ":q" = Exit of the text document
 
 RECOMMEND USE: "apt-get autoremove" to remove what's missing from the program
 
+```bash
+# clonar repositório
+git clone https://github.com/devsuperior/sds1-wmazoni
 
+# entrar na pasta do projeto back end
+cd backend
 
+# executar o projeto
+./mvnw spring-boot:run
+```
+
+## Windows
+Pré-requisitos: Must have a device that runs the Windows operating system.
+
+```bash
+# clonar repositório
+git clone https://github.com/devsuperior/sds1-wmazoni
+
+# entrar na pasta do projeto front end web
+cd front-web
+
+# instalar dependências
+yarn install
+
+# executar o projeto
+yarn start
+```
+
+# Autor
+
+Jonathan Pereira Peixoto
+
+https://jonypeixoto.com/linkedin
