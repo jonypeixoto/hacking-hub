@@ -34,7 +34,7 @@ Overview:
 
 # About the project
 
-https://wmazoni-sds1.netlify.app
+https://jonypeixoto.com
 
 Hacking Tips and Tools is a repository to show as many summarized experiences as possible about hacking the full stack web and mobile application built and organized by [Jony Peixoto](https://jonypeixoto.com "Site de Jony Peixoto").
 
