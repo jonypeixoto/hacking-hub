@@ -47,10 +47,18 @@ More information:
 
 https://dualbootfun.github.io/dualboot/
 
+<br/>
+
 ## Desktop Linux Layout 
 ![Desktop 1](https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/desktop-linux1.jpg) ![Desktop 2](https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/desktop-linux2.png)
 
-## Desktop Windows Layout
+More information:
+
+https://www.linux.org
+
+<br/>
+
+## Desktop Prompt Command on Windows Layout
 ![Web 1](https://github.com/acenelio/assets/raw/main/sds1/web1.png)
 
 ![Web 2](https://github.com/acenelio/assets/raw/main/sds1/web2.png)
