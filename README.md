@@ -67,7 +67,8 @@ https://docs.microsoft.com/pt-br/windows-server/administration/windows-commands/
 
 # Technologies used
 
-- Linux system or Windows prompt
+- Linux system(Linux terminal)
+- Windows operating system(Windows command prompt)
 
 # How to run the project
 
