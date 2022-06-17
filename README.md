@@ -69,10 +69,38 @@ https://docs.microsoft.com/pt-br/windows-server/administration/windows-commands/
 
 - Linux system or Windows prompt
 
-# Como executar o projeto
+# How to run the project
 
-## Linux
+## Windows or Linux
 Pré-requisitos: Must have a device that runs the Linux operating system or using Windows prompt.
+
+## Windows:
+
+1) Open the search bar (Windows button) on your keyboard
+
+2) Type prompt and run as administrator
+
+3) Ready, now type the desired commands !
+
+<br/>
+
+![Windows prompt](https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/prompt-windows.png)
+
+<br/>
+
+## Linux:
+
+Similarly, follow the same 3 steps above, open the terminal on Linux, especially on Kali Linux (shown in the screenshot below), you can choose between user mode or root mode (it works in the same way as running it as administrator on Windows).
+
+Preferably, choose root mode to have all administrator privileges and be able to use all commands in the operating system.
+
+![Kali Linux](https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/terminals-kali-linux.png)
+
+Observation:
+
+In user mode, "$" appears before every command you will type.
+
+In root mode, "#" appears before every command you will type.
 
 <h1>Commands on the Linux:</h1>
 
@@ -99,56 +127,7 @@ Pré-requisitos: Must have a device that runs the Linux operating system or usin
 * ) apt-get autoremove - remove what it is not necessary on Ubuntu Linux
 * ) apt-get install (program name) - install the (program name)
 
-Example: open the vim
-
-FIRST) Insert command: vim teste
-SECOND) Press the "i" key for write and "ESC" for exit to write
-THIRD) Save the text document >> Press SHIFT + ":" + wq!
-
-For check out the text document, for open the text document, use the command: vim teste
-
-W - for save the text document
-Q - exit of the text document
-! - for force this command
-
-EXTRAS: 
-
-SHIFT + ":w" = Save the text without exit of the text document
-SHIFT + ":q" = Exit of the text document
-
-* ) S - accept a command
-* ) n -  deny a command
-* ) apt-get purge (name program) - uninstall the (program name)
-
-RECOMMEND USE: "apt-get autoremove" to remove what's missing from the program
-
-```bash
-# clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
-
-# entrar na pasta do projeto back end
-cd backend
-
-# executar o projeto
-./mvnw spring-boot:run
-```
-
-## Windows
-Pré-requisitos: Must have a device that runs the Windows operating system.
-
-```bash
-# clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
-
-# entrar na pasta do projeto front end web
-cd front-web
-
-# instalar dependências
-yarn install
-
-# executar o projeto
-yarn start
-```
+More 500 Linux commands HERE: https://www.linuxpro.com.br/dl/guia_500_comandos_Linux.pdf
 
 # Autor
 
