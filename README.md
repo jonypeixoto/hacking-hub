@@ -67,30 +67,16 @@ https://docs.microsoft.com/pt-br/windows-server/administration/windows-commands/
 
 # Technologies used
 
-## Back end
-- Java
-- Spring Boot
-- JPA / Hibernate
-- Maven
-## Front end
-- HTML / CSS / JS / TypeScript
-- ReactJS
-- React Native
-- Apex Charts
-- Expo
-## Implantação em produção
-- Back end: Heroku
-- Front end web: Netlify
-- Banco de dados: Postgresql
+- Linux system or Windows prompt
 
 # Como executar o projeto
 
 ## Linux
 Pré-requisitos: Must have a device that runs the Linux operating system or using Windows prompt.
 
-<h1>Commands on the Linux Ubuntu:</h1>
+<h1>Commands on the Linux:</h1>
 
-<h2>Linux Navigation Commands:</h2>
+<h2>Basic Linux Navigation Commands:</h2>
 
   Bottom TAB help to auto-complete any name in yout prompt on the Ubuntu Linux
 
