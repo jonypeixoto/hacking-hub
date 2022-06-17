@@ -133,4 +133,6 @@ More 500 Linux commands HERE: https://www.linuxpro.com.br/dl/guia_500_comandos_L
 
 Jonathan Pereira Peixoto
 
-https://jonypeixoto.com/linkedin
+https://jonypeixoto.com
+
+Follow me: Jony Tech @jonypeixoto (TikTok)
