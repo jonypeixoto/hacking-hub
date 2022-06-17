@@ -59,9 +59,11 @@ https://www.linux.org
 <br/>
 
 ## Desktop Prompt Command on Windows Layout
-![Web 1](https://github.com/acenelio/assets/raw/main/sds1/web1.png)
+![Windows](https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/windows-prompt.png)
 
-![Web 2](https://github.com/acenelio/assets/raw/main/sds1/web2.png)
+More information:
+
+https://docs.microsoft.com/pt-br/windows-server/administration/windows-commands/prompt
 
 # Technologies used
 
@@ -84,7 +86,7 @@ https://www.linux.org
 # Como executar o projeto
 
 ## Linux
-Pré-requisitos: Must have a device that runs the Linux operating system.
+Pré-requisitos: Must have a device that runs the Linux operating system or using Windows prompt.
 
 <h1>Commands on the Linux Ubuntu:</h1>
 
