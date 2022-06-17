@@ -65,7 +65,7 @@ More information:
 
 https://docs.microsoft.com/pt-br/windows-server/administration/windows-commands/prompt
 
-# Technologies used
+# Technologies 
 
 - Linux system(Linux terminal)
 - Windows operating system(Windows command prompt)
@@ -132,10 +132,9 @@ More 500 Linux commands HERE: https://www.linuxpro.com.br/dl/guia_500_comandos_L
 
 # Author
 
-Jonathan Pereira Peixoto
+Made with ♥ by Jony Peixoto :wave: [Get in touch!](https://jonypeixoto.com)
 
-https://jonypeixoto.com
+[TikTok: Jony Tech @jonypeixoto](https://tiktok.com/@jonypeixoto)
 
-Follow me: Jony Tech @jonypeixoto (TikTok)
+[Twitch: Jony Peixoto](https://twitch.tv/jonypeixoto)
 
-https://tiktok.com/@jonypeixoto
