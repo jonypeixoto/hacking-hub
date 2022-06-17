@@ -130,7 +130,7 @@ In root mode, "#" appears before every command you will type.
 
 More 500 Linux commands HERE: https://www.linuxpro.com.br/dl/guia_500_comandos_Linux.pdf
 
-# Autor
+# Author
 
 Jonathan Pereira Peixoto
 
