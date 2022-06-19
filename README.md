@@ -65,10 +65,23 @@ More information:
 
 https://docs.microsoft.com/pt-br/windows-server/administration/windows-commands/prompt
 
-# Technologies 
+## :rocket: Technologies
 
-- Linux system(Linux terminal)
-- Windows operating system(Windows command prompt)
+This project was developed according to my research with the following technologies:
+
+- [Linux](https://linux.org)
+- [Windows](https://www.microsoft.com/en-us/windows)
+- [Android](https://www.android.com)
+- [iOS](https://developer.apple.com/documentation/)
+- [Google](http://facebook.github.io/react-native/)
+- [DuckDuckGo](https://duckduckgo.com)
+- [Start Page](https://startpage.com)
+
+## :warning: Prerequisites
+
+In order to use and test the app on a simulator or on your smartphone or your operational system, you should've already setup the development environment for React Native applications. You can follow the following article (PT-BR) to setup your environment:
+
+[React Native Environment (Android/iOS)](https://docs.rocketseat.dev/ambiente-react-native/introducao)
 
 # How to run the project
 
