@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="React GitHub Repo List" src="https://res.cloudinary.com/lukemorales/image/upload/v1562212004/readme_logos/nubank-react-native_eqpbvd.png" />
+    <img alt="Linux GitHub Repo List" src="https://res.cloudinary.com/lukemorales/image/upload/v1562212004/readme_logos/nubank-react-native_eqpbvd.png" />
     <br>
     Hacking Tips and Tools
 </h1>
@@ -9,24 +9,24 @@
   <a href="https://www.kali.org/tools/">Kali Tools</a>
 </h4>
 <p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/lukemorales/nubank-react-native.svg">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/jonypeixoto/hacking-tips-and-tools">
   
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/lukemorales/nubank-react-native.svg">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/jonypeixoto/hacking-tips-and-tools">
   
   <a href="https://www.codacy.com/app/lukemorales/nubank-react-native?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=lukemorales/nubank-react-native&amp;utm_campaign=Badge_Grade">
     <img alt="Codacy grade" src="https://img.shields.io/codacy/grade/fa0599d8f0434c7388ae9549c8aeb90b.svg">
   </a>
   
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/lukemorales/nubank-react-native.svg">
-  <a href="https://github.com/lukemorales/nubank-react-native/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/lukemorales/nubank-react-native.svg">
+  <img alt="GitHub repository size" src="https://img.shields.io/github/repo-size/jonypeixoto/hacking-tips-and-tools">
+  <a href="https://github.com/jonypeixoto/hacking-tips-and-tools/commits">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/jonypeixoto/hacking-tips-and-tools">
   </a>
   
-  <a href="https://github.com/lukemorales/nubank-react-native/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/lukemorales/nubank-react-native.svg">
+  <a href="https://github.com/jonypeixoto/hacking-tips-and-tools/issues">
+    <img alt="Github issues" src="https://img.shields.io/github/issues/jonypeixoto/hacking-tips-and-tools">
   </a>
   
-  <img alt="GitHub" src="https://img.shields.io/github/license/lukemorales/nubank-react-native.svg"> 
+  <img alt="GitHub License" src="https://img.shields.io/github/license/jonypeixoto/hacking-tips-and-tools"> 
 </p>
 
 <p align="center">
@@ -37,7 +37,7 @@
 </p>
 
 ## ⭐ Hacking Tips and Tools 
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/devsuperior/sds1-wmazoni/blob/master/LICENSE) 
+![GitHub License](https://img.shields.io/github/license/jonypeixoto/hacking-tips-and-tools)
 
 ## Syllabus:
 
@@ -205,7 +205,11 @@ This project is under the MIT license. See the [LICENSE](https://github.com/jony
 
 Made with ♥ by Jony Peixoto :wave: [Get in touch!](https://jonypeixoto.com)
 
-TikTok: [Jony Tech @jonypeixoto](https://tiktok.com/@jonypeixoto)
+LIVES:
 
-Twitch: [Jony Peixoto](https://twitch.tv/jonypeixoto)
+TikTok: [Jony Tech @jonypeixoto](https://jonypeixoto.com/tiktok)
+
+YouTube: [Jony Peixoto](https://jonypeixoto.com/youtube)
+
+Twitch: [Jony Peixoto](https://jonypeixoto.com/twitch)
 
