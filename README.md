@@ -1,38 +1,25 @@
-# Hacking Tips and Tools 
+## ⭐ Hacking Tips and Tools 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/devsuperior/sds1-wmazoni/blob/master/LICENSE) 
 
-<h1>Syllabus Hacker:</h1>
+## Syllabus:
 
-<h4>
 Overview:
 <br/>
 <br/>
 - Virtual machines and containers
-<br/>
 - Shell and scripting
-<br/>
 - Command-line environment
-<br/>
 - Data wrangling
-<br/>
 - Editors
-<br/>
 - Version control
-<br/>
 - Dotfiles and backups
-<br/>
 - Automation and machine introspection
-<br/>  
 - Program introspection and package/dependency management
- <br/>
 - OS customization and Remote Machines
-<br/>
 - Web and browsers
-<br/>
 - Security and privacy
-</h4>
 
-# About the project
+## 📚 About the project
 
 https://jonypeixoto.com
 
@@ -83,18 +70,20 @@ In order to use and test the app on a simulator or on your smartphone or your op
 
 [React Native Environment (Android/iOS)](https://docs.rocketseat.dev/ambiente-react-native/introducao)
 
-# How to run the project
+## :information_source: How to run the project
 
 ## Windows or Linux
 Pré-requisitos: Must have a device that runs the Linux operating system or using Windows prompt.
 
 ## Windows:
 
+```bash
 1) Open the search bar (Windows button) on your keyboard
 
 2) Type prompt and run as administrator
 
 3) Ready, now type the desired commands !
+```
 
 <br/>
 
@@ -118,36 +107,68 @@ In root mode, "#" appears before every command you will type.
 
 <h1>Commands on the Linux:</h1>
 
-<h2>Basic Linux Navigation Commands:</h2>
+## Basic Linux Navigation Commands:
 
+```bash
   Bottom TAB help to auto-complete any name in yout prompt on the Ubuntu Linux
 
-* ) ls - historical about the files on the Linux directory
-* ) cd (name file) - open the file
-* ) cd .. - comeback 1 file
-* ) mkdir - create a file
-* ) clear - clear the prompt command
-* ) history - show all the historical commands used on the promt command
-* ) reboot - restart the machine (PC, Notebook, etc)
-* ) shutdown - turn off the machine (PC, Notebook, etc)
-* ) rm -rf (name file)- delete the file (name file)
-* ) CTRL + p - shows / types the last commands typed in the Prompt
+# Historical about the files on the Linux directory
+$ ls  
 
+# Open the file
+$ cd (name file) 
 
-<h2>Linux Commands:</h2>
+# Comeback 1 file
+$ cd .. 
 
-* ) apt-get update  - updates only what is needed on Ubuntu Linux (security, etc)
-* ) apt-get upgrade - update everything on Ubuntu Linux
-* ) apt-get autoremove - remove what it is not necessary on Ubuntu Linux
-* ) apt-get install (program name) - install the (program name)
+# Create a file
+$ mkdir
 
-More 500 Linux commands HERE: https://www.linuxpro.com.br/dl/guia_500_comandos_Linux.pdf
+# Clear the prompt command
+$ clear 
 
-# Author
+# Show all the historical commands used on the promt command
+$ history 
+
+# Restart the machine (PC, Notebook, etc)
+$ reboot
+
+# Turn off the machine (PC, Notebook, etc)
+$ shutdown 
+
+# Delete the file (name file)
+$ rm -rf (name file)
+
+# shows / types the last commands typed in the Prompt
+$ CTRL + p 
+```
+
+## Linux Commands:
+
+```bash
+# Updates only what is needed on Ubuntu Linux (security, etc)
+$ apt-get update 
+
+# Update everything on Ubuntu Linux
+$ apt-get upgrade
+
+# Remove what it is not necessary on Ubuntu Linux
+$ apt-get autoremove 
+
+# Install the (program name)
+$ apt-get install (program name) 
+```
+
+More 500 Linux commands HERE: [eBook with over 500 Linux commands](https://www.linuxpro.com.br/dl/guia_500_comandos_Linux.pdf)
+
+## :memo: License
+This project is under the MIT license. See the [LICENSE](https://github.com/jonypeixoto/hacking-tips-and-tools/blob/main/LICENSE) for more information.
+
+## ⭐ Author
 
 Made with ♥ by Jony Peixoto :wave: [Get in touch!](https://jonypeixoto.com)
 
-[TikTok: Jony Tech @jonypeixoto](https://tiktok.com/@jonypeixoto)
+TikTok: [Jony Tech @jonypeixoto](https://tiktok.com/@jonypeixoto)
 
-[Twitch: Jony Peixoto](https://twitch.tv/jonypeixoto)
+Twitch: [Jony Peixoto](https://twitch.tv/jonypeixoto)
 
