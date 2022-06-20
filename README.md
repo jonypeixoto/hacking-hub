@@ -30,7 +30,7 @@
 </p>
 
 <p align="center">
-  <a href="#construction-syllabus">Syllabus</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#syllabus">Syllabus</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#rocket-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#warning-prerequisites">Prerequisites</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#information_source-how-to-use">How To Use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -41,7 +41,7 @@
 ## ⭐ Hacking Tips and Tools 
 ![GitHub License](https://img.shields.io/github/license/jonypeixoto/hacking-tips-and-tools)
 
-## :construction: Syllabus
+## Syllabus
 
 Repository content:
 <br/>
