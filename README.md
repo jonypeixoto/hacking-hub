@@ -1,10 +1,47 @@
+<h1 align="center">
+    <img alt="React GitHub Repo List" src="https://res.cloudinary.com/lukemorales/image/upload/v1562212004/readme_logos/nubank-react-native_eqpbvd.png" />
+    <br>
+    Hacking Tips and Tools
+</h1>
+
+<h4 align="center">
+  Hacking Tips and Tools is a repository for the basics of hacking that every programmer in the world should know: 
+  <a href="https://www.kali.org/tools/">Kali Tools</a>
+</h4>
+<p align="center">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/lukemorales/nubank-react-native.svg">
+  
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/lukemorales/nubank-react-native.svg">
+  
+  <a href="https://www.codacy.com/app/lukemorales/nubank-react-native?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=lukemorales/nubank-react-native&amp;utm_campaign=Badge_Grade">
+    <img alt="Codacy grade" src="https://img.shields.io/codacy/grade/fa0599d8f0434c7388ae9549c8aeb90b.svg">
+  </a>
+  
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/lukemorales/nubank-react-native.svg">
+  <a href="https://github.com/lukemorales/nubank-react-native/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/lukemorales/nubank-react-native.svg">
+  </a>
+  
+  <a href="https://github.com/lukemorales/nubank-react-native/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/lukemorales/nubank-react-native.svg">
+  </a>
+  
+  <img alt="GitHub" src="https://img.shields.io/github/license/lukemorales/nubank-react-native.svg"> 
+</p>
+
+<p align="center">
+  <a href="#rocket-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#warning-prerequisites">Prerequisites</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#information_source-how-to-use">How To Use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-license">License</a>
+</p>
+
 ## ⭐ Hacking Tips and Tools 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/devsuperior/sds1-wmazoni/blob/master/LICENSE) 
 
 ## Syllabus:
 
 Overview:
-<br/>
 <br/>
 - Virtual machines and containers
 - Shell and scripting
@@ -105,7 +142,7 @@ In user mode, "$" appears before every command you will type.
 
 In root mode, "#" appears before every command you will type.
 
-<h1>Commands on the Linux:</h1>
+## Commands on the Linux:
 
 ## Basic Linux Navigation Commands:
 
