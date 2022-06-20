@@ -30,18 +30,20 @@
 </p>
 
 <p align="center">
+  <a href="#construction-syllabus">Syllabus</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#rocket-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#warning-prerequisites">Prerequisites</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#information_source-how-to-use">How To Use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-license">License</a>
+  <a href="#memo-license">License</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#star2-author">Author</a>
 </p>
 
 ## ⭐ Hacking Tips and Tools 
 ![GitHub License](https://img.shields.io/github/license/jonypeixoto/hacking-tips-and-tools)
 
-## Syllabus:
+## :construction: Syllabus
 
-Overview:
+Repository content:
 <br/>
 - Virtual machines and containers
 - Shell and scripting
@@ -56,38 +58,30 @@ Overview:
 - Web and browsers
 - Security and privacy
 
-## 📚 About the project
+🚧 Repository content under construction
 
-https://jonypeixoto.com
-
-Hacking Tips and Tools is a repository to show as many summarized experiences as possible about hacking the full stack web and mobile application built and organized by [Jony Peixoto](https://jonypeixoto.com "Site de Jony Peixoto").
+Hacking Tips and Tools is a repository to show as many summarized experiences as possible about hacking the full stack web and mobile application built and organized by [Jony Peixoto](https://jonypeixoto.com "Portfolio de Jony Peixoto").
 
 The application consists of a search by Google and externally to other networks such as the Deep Web and associates about the hacking world, where data is collected in operating systems: Windows, Linux, mainly in applications of internal tools of the Linux system.
 
 ## Mobile Linux Layout 
 ![Mobile 1](https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/iphone-linux1.jpg) ![Mobile 2](https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/iphone-linux2.jpg)
 
-More information:
-
-https://dualbootfun.github.io/dualboot/
+[More information](https://dualbootfun.github.io/dualboot/)
 
 <br/>
 
 ## Desktop Linux Layout 
 ![Desktop 1](https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/desktop-linux1.jpg) ![Desktop 2](https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/desktop-linux2.png)
 
-More information:
-
-https://www.linux.org
+[More information](https://www.linux.org)
 
 <br/>
 
 ## Desktop Prompt Command on Windows Layout
 ![Windows](https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/windows-prompt.png)
 
-More information:
-
-https://docs.microsoft.com/pt-br/windows-server/administration/windows-commands/prompt
+[More information](https://docs.microsoft.com/pt-br/windows-server/administration/windows-commands/prompt)
 
 ## :rocket: Technologies
 
@@ -107,7 +101,7 @@ In order to use and test the app on a simulator or on your smartphone or your op
 
 [React Native Environment (Android/iOS)](https://docs.rocketseat.dev/ambiente-react-native/introducao)
 
-## :information_source: How to run the project
+## :information_source: How To Use
 
 ## Windows or Linux
 Pré-requisitos: Must have a device that runs the Linux operating system or using Windows prompt.
@@ -201,7 +195,7 @@ More 500 Linux commands HERE: [eBook with over 500 Linux commands](https://www.l
 ## :memo: License
 This project is under the MIT license. See the [LICENSE](https://github.com/jonypeixoto/hacking-tips-and-tools/blob/main/LICENSE) for more information.
 
-## ⭐ Author
+## :star2: Author
 
 Made with ♥ by Jony Peixoto :wave: [Get in touch!](https://jonypeixoto.com)
 
