@@ -39,6 +39,9 @@
 </p>
 
 ## ⭐ Hacking Tips and Tools 
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/eb57b9b960fe4e89b9d480506cb2aa86)](https://app.codacy.com/gh/jonypeixoto/hacking-tips-and-tools?utm_source=github.com&utm_medium=referral&utm_content=jonypeixoto/hacking-tips-and-tools&utm_campaign=Badge_Grade_Settings)
+
 ![GitHub License](https://img.shields.io/github/license/jonypeixoto/hacking-tips-and-tools)
 
 ## Syllabus
