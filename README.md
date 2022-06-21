@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Linux GitHub Repo List" src="https://res.cloudinary.com/lukemorales/image/upload/v1562212004/readme_logos/nubank-react-native_eqpbvd.png" />
+    <img alt="Linux GitHub Repo List" src="https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/hacking-tips-and-tools.png" />
     <br>
     Hacking Tips and Tools
 </h1>
@@ -13,8 +13,8 @@
   
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/jonypeixoto/hacking-tips-and-tools">
   
-  <a href="https://www.codacy.com/app/lukemorales/nubank-react-native?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=lukemorales/nubank-react-native&amp;utm_campaign=Badge_Grade">
-    <img alt="Codacy grade" src="https://img.shields.io/codacy/grade/fa0599d8f0434c7388ae9549c8aeb90b.svg">
+  <a href="https://www.codacy.com/gh/jonypeixoto/hacking-tips-and-tools/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=jonypeixoto/hacking-tips-and-tools&amp;utm_campaign=Badge_Grade">
+    <img alt="Codacy Badge" src="https://app.codacy.com/project/badge/Grade/f97224b8ee5942bdb2f16bf319b8be7d">
   </a>
   
   <img alt="GitHub repository size" src="https://img.shields.io/github/repo-size/jonypeixoto/hacking-tips-and-tools">
