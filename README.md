@@ -199,7 +199,15 @@ This project is under the MIT license. See the [LICENSE](https://github.com/jony
 
 Made with ♥ by Jony Peixoto :wave: [Get in touch!](https://jonypeixoto.com)
 
-LIVES:
+<br/>
+
+<a href="https://www.jonypeixoto.com" target="_blank">
+  <code><img alt="Jony Peixoto Official Website" height="30" width="130" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></code>
+</a>
+
+<br/>
+
+### LIVES:
 
 TikTok: [Jony Tech @jonypeixoto](https://jonypeixoto.com/tiktok)
 
