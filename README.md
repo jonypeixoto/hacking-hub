@@ -64,6 +64,16 @@ Hacking Tips and Tools is a repository to show as many summarized experiences as
 
 The application consists of a search by Google and externally to other networks such as the Deep Web and associates about the hacking world, where data is collected in operating systems: Windows, Linux, mainly in applications of internal tools of the Linux system.
 
+## :warning: Prerequisites
+
+To use and test the presented tips and tools, you must have correctly installed and licensed the operating systems or similar mentioned below. You can follow the following article (EN-US) to configure your environment or use a Google Translate browser extension (search for "google translate extension" and install it in your browser) to help you:
+
+- [Linux](https://linux.org)
+
+- [Windows](https://www.microsoft.com/en-us/windows)
+
+<br/>
+
 ## Mobile Linux Layout 
 ![Mobile 1](https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/iphone-linux1.jpg) ![Mobile 2](https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/iphone-linux2.jpg)
 
@@ -94,12 +104,6 @@ This project was developed according to my research with the following technolog
 - [Google](http://facebook.github.io/react-native/)
 - [DuckDuckGo](https://duckduckgo.com)
 - [Start Page](https://startpage.com)
-
-## :warning: Prerequisites
-
-In order to use and test the app on a simulator or on your smartphone or your operational system, you should've already setup the development environment for React Native applications. You can follow the following article (PT-BR) to setup your environment:
-
-[React Native Environment (Android/iOS)](https://docs.rocketseat.dev/ambiente-react-native/introducao)
 
 ## :information_source: How To Use
 
