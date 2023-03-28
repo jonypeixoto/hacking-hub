@@ -225,7 +225,16 @@ $ apt-get install (program name)
 
 ```
 
-###Section 1: OVERVIEW GOOGLE HACKING
+_________________________________________________________________
+
+# SECTION 1: OVERVIEW GOOGLE HACKING
+* What is Google Hacking / Dorking?
+* What is Open Source Intelligence?
+* History
+* Exploring its Techniques
+* Benefits
+
+### Section 1: OVERVIEW GOOGLE HACKING
 
 * What is Google Hacking / Dorking?
 
@@ -254,14 +263,91 @@ Automated attaack tools use custom search dictionaries to find vulnerable system
 
 * Exploring its Techniques & Benefits
 
+What is important understand?
 
+Advanced Google searches used to find security loopholes on websites and allow hackers to break in to or disrupt the site. Google hacking is a computer hacking technique that uses Google Search and other Google applcations to find security holes in the configuration and computer code that websites use.
 
+It's not hacking into Google servers!
+
+It's just using Google search techniques to find exactly what we actually need.
+
+* Benefits
+
+Benefits of Google dorks(Hacking):
+
+Displays better attractive search results .
+
+Easy to learn.
+
+Shows hidden tricks and links as well.
 
 _________________________________________________________________
 
+# SECTION 2: ABOUT GOOGLE SEARCH
+* How Google Works?
+* What are Crawlers?
+* How do They Work?
+* How Search Engine Works?
+* What are Keywords?
+* Recap
 
+
+### SECTION 2: ABOUT GOOGLE SEARCH
+
+* How Google Works?
+
+1) Query
+
+3) Google Web Server
+
+3) Index Servers: The web server send the query to the index servers. The content inside the index servers is similar to the index in the back of a book--it tells which pages contain the words that match any particular query term.
+
+4) Doc Servers: the query travels to the doc servers, which actually retrieve the stored documents. Snippets are generated to describe each search result.
+
+5) Google user: the search results are returned to the user in a fraction of a second. 
+
+
+* What are Crawlers? How do They Work?
+
+1) Search engine
+2) Crawler
+3) mywebsite.com
+4) Website Contents
+5) Dictionary of content such as keywords & images is recorded by the Crawler
+6) Keywords: Apple, Banana, Pear
+7) The Crawler sends these keywords to the Search Engine to be stored for later search
+
+* How Search Engine Works? What are Keywords?
+
+A user submits a query to search...
+
+1) User searches for "Pears"
+2) Search Engine indexes all crawled websites that has the keyword "Pears"
+3) anotherwebsite.com
+4) Website Contents
+5) Keywords: Apples, Bananas, Pears
+
+* Recap
+
+<h1 align="center">
+    <img alt="Hacking Tips and Tools" src="https://github.com/jonypeixoto/jonypeixoto/raw/main/assets/Search-Engine-Hacking-tips.png" />
+    <br>
+  
+</h1>
 _________________________________________________________________
+
+# SECTION 3: UDERSTANDING THE STRUCTURE QUERY
+* Query Operator Structure
+* Understaind a URL Structure(With QUery Parameters)
+* Various Parts, Broken Down into Pieces
+* Google Commands(tricks)
 _________________________________________________________________
+
+# SECTION 4: USING GOOGLE DORK WITH PRACTICAL IMPLEMENTATION
+* Preventing Google Dorks
+* Myths and Facts
+* Conclusion
+
 _________________________________________________________________
 
 More 500 Linux commands HERE: [eBook with over 500 Linux commands](https://www.linuxpro.com.br/dl/guia_500_comandos_Linux.pdf)
