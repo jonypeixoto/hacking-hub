@@ -194,6 +194,76 @@ $ apt-get autoremove
 $ apt-get install (program name) 
 ```
 
+## Google Hacking:
+
+```bash
+# SECTION 1: OVERVIEW GOOGLE HACKING
+* What is Google Hacking / Dorking?
+* What is Open Source Intelligence?
+* History
+* Exploring its Techniques
+* Benefits
+
+# SECTION 2: ABOUT GOOGLE SEARCH
+* How Google Works?
+* What are Crawlers?
+* How do They Work?
+* How Search Engine Works?
+* What are Keywords?
+* Recap
+
+# SECTION 3: UDERSTANDING THE STRUCTURE QUERY
+* Query Operator Structure
+* Understaind a URL Structure(With QUery Parameters)
+* Various Parts, Broken Down into Pieces
+* Google Commands(tricks)
+
+# SECTION 4: USING GOOGLE DORK WITH PRACTICAL IMPLEMENTATION
+* Preventing Google Dorks
+* Myths and Facts
+* Conclusion
+
+```
+
+###Section 1: OVERVIEW GOOGLE HACKING
+
+* What is Google Hacking / Dorking?
+
+Google hacking, also named Google dorking, is a hacker technique that uses Google Search and other Google applications to find security holes in the configuration and computer code that websites are using.
+
+Google Hacking = Google Dorking = OSINT = Open Source Intelligence
+
+
+* What is Open Source Intelligence? How is it used?
+
+OSINT = Open Source Intelligence = is derived from data and information that is available to the general public.
+
+It's not limited to what we find using Google, although the so-called SOPHIES Web is an important component.
+
+
+* History
+
+The concept of Google hacking dates back to 2002 when Johnny began to collect Google search queries that uncovered vulnerable systems and sensitive information discloses labeling them as Google Docs.
+
+The list of Google Docs grew in a large dictionary of queries, which were eventually organized in the original Google hacking database that is G.H. DBE in 2004.
+
+Sometimes Google hacking referred to as Google talking, have been extended to other search engines such as Bing and Shodan.
+
+Automated attaack tools use custom search dictionaries to find vulnerable systems and sensitive information disclosures in public systems that have been indexed by search engines.
+
+
+* Exploring its Techniques & Benefits
+
+
+
+
+_________________________________________________________________
+
+
+_________________________________________________________________
+_________________________________________________________________
+_________________________________________________________________
+
 More 500 Linux commands HERE: [eBook with over 500 Linux commands](https://www.linuxpro.com.br/dl/guia_500_comandos_Linux.pdf)
 
 ## :memo: License
