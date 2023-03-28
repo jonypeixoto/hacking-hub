@@ -529,9 +529,39 @@ will return only documents that have both "google" and "search" in the url.
 
 * Myths and Facts
 
+How do I avoid being a victim of Google hacking?
 
+You can run a vulnerability scanner against your website or you can hire certified ethical hackers
 
-* Conclusion
+<br>
+
+What is the difference between Google hacking and hacking Google?
+
+ Google hacking means using Google to perform hacking activities.
+ 
+ Hacking google means finding vulnerabilities in Google services. There are security researches who find vulnerabilities in Google and claim bug bounty from Google.
+ 
+<br>
+
+What does Google hacking mean?
+
+Google hacking means using Google to find files and pages that are not secure.
+
+For example, if you have any insecure files or pages at Google, I mean, Google doc can find them very easily.
+
+<br>
+
+Does Google hacking work with other search engines?
+
+Yes, specific queries of other search engines might be different.
+
+<br>
+
+How do I protect myselft against Google hacks?
+
+Check fot dozens of others even more serious problems that may lead attackers, steal information or take over your websites.
+
+<br>
 _________________________________________________________________
 
 More 500 Linux commands HERE: [eBook with over 500 Linux commands](https://www.linuxpro.com.br/dl/guia_500_comandos_Linux.pdf)
