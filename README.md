@@ -482,8 +482,55 @@ will return only those pages whose URL contains 'adminlogin'
   
 </h1>
 
+<br>
+
+allinurl
+
+If you start a query with [allinurt:],
+Google will restrict the results to those with all of the query words in the url.
+
+For instance,
+[allinurl: google search]
+will return only documents that have both "google" and "search" in the url.
+
+<h1 align="center">
+    <img alt="Hacking Tips and Tools" src="https://github.com/jonypeixoto/jonypeixoto/raw/main/assets/Search-Engine-Hacking-tips14.png" />
+    <br>
+  
+</h1>
+
+<br>
+
 * Preventing Google Dorks
+
+<h1 align="center">
+    <img alt="Hacking Tips and Tools" src="https://github.com/jonypeixoto/jonypeixoto/raw/main/assets/Search-Engine-Hacking-tips14.png" />
+    <br>
+  
+</h1>
+
+<br>
+
+<h1 align="center">
+    <img alt="Hacking Tips and Tools" src="https://github.com/jonypeixoto/jonypeixoto/raw/main/assets/Search-Engine-Hacking-tips15.png" />
+    <br>
+  
+</h1>
+
+<br>
+
+<h1 align="center">
+    <img alt="Hacking Tips and Tools" src="https://github.com/jonypeixoto/jonypeixoto/raw/main/assets/Search-Engine-Hacking-tips16.png" />
+    <br>
+  
+</h1>
+
+<br>
+
 * Myths and Facts
+
+
+
 * Conclusion
 _________________________________________________________________
 
