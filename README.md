@@ -359,6 +359,75 @@ _________________________________________________________________
 * Understaind a URL Structure(With QUery Parameters)
 * Various Parts, Broken Down into Pieces
 * Google Commands(tricks)
+
+
+### SECTION 3: UDERSTANDING THE STRUCTURE QUERY
+
+* Query Operator Structure
+
+<h1 align="center">
+    <img alt="Hacking Tips and Tools" src="https://github.com/jonypeixoto/jonypeixoto/raw/main/assets/Search-Engine-Hacking-tips4.png" />
+    <br>
+  
+</h1>
+<br>
+
+* Understaind a URL Structure(With QUery Parameters)
+
+<h1 align="center">
+    <img alt="Hacking Tips and Tools" src="https://github.com/jonypeixoto/jonypeixoto/raw/main/assets/Search-Engine-Hacking-tips5.png" />
+    <br>
+  
+</h1>
+<br>
+
+* Various Parts, Broken Down into Pieces
+
+<h1 align="center">
+    <img alt="Hacking Tips and Tools" src="https://github.com/jonypeixoto/jonypeixoto/raw/main/assets/Search-Engine-Hacking-tips6.png" />
+    <br>
+  
+</h1>
+
+<br>
+
+<h1 align="center">
+    <img alt="Hacking Tips and Tools" src="https://github.com/jonypeixoto/jonypeixoto/raw/main/assets/Search-Engine-Hacking-tips7.png" />
+    <br>
+  
+</h1>
+
+<br>
+
+<h1 align="center">
+    <img alt="Hacking Tips and Tools" src="https://github.com/jonypeixoto/jonypeixoto/raw/main/assets/Search-Engine-Hacking-tips8.png" />
+    <br>
+  
+</h1>
+
+<br>
+
+* What are URL Parameters?
+
+<h1 align="center">
+    <img alt="Hacking Tips and Tools" src="https://github.com/jonypeixoto/jonypeixoto/raw/main/assets/Search-Engine-Hacking-tips9.png" />
+    <br>
+  
+</h1>
+
+* Google Commands(tricks)
+
+Google allows the use of certain operators to help refine searches.
+
+The use of advanced operators is very simple as long as attention is given to the syntax.
+
+The basic format is: operator:search_term
+
+Notice that there is no space between the operator, the colon and the search term.
+
+If a space is used after a colon, Google will display an error message.
+
+If a space is used before the colon, Google will use tour intended operator as a search term.
 _________________________________________________________________
 
 # SECTION 4: USING GOOGLE DORK WITH PRACTICAL IMPLEMENTATION
