@@ -431,10 +431,60 @@ If a space is used before the colon, Google will use tour intended operator as a
 _________________________________________________________________
 
 # SECTION 4: USING GOOGLE DORK WITH PRACTICAL IMPLEMENTATION
+* The Real World Practical GOOGLE Hacking
 * Preventing Google Dorks
 * Myths and Facts
 * Conclusion
 
+
+### SECTION 4: USING GOOGLE DORK WITH PRACTICAL IMPLEMENTATION
+
+* The Real World Practical GOOGLE Hacking
+
+Site
+
+It returns the websites of specified domains
+
+Example: site:wikipedia.org
+
+<h1 align="center">
+    <img alt="Hacking Tips and Tools" src="https://github.com/jonypeixoto/jonypeixoto/raw/main/assets/Search-Engine-Hacking-tips10.png" />
+    <br>
+  
+</h1>
+
+inurl
+
+restricts the results to sites whose URL's contains specified phrase.
+
+Example: inurl:adminlogin
+will return only those pages whose URL contains 'adminlogin'
+
+<h1 align="center">
+    <img alt="Hacking Tips and Tools" src="https://github.com/jonypeixoto/jonypeixoto/raw/main/assets/Search-Engine-Hacking-tips11.png" />
+    <br>
+  
+</h1>
+
+<br>
+
+<h1 align="center">
+    <img alt="Hacking Tips and Tools" src="https://github.com/jonypeixoto/jonypeixoto/raw/main/assets/Search-Engine-Hacking-tips12.png" />
+    <br>
+  
+</h1>
+
+<br>
+
+<h1 align="center">
+    <img alt="Hacking Tips and Tools" src="https://github.com/jonypeixoto/jonypeixoto/raw/main/assets/Search-Engine-Hacking-tips13.png" />
+    <br>
+  
+</h1>
+
+* Preventing Google Dorks
+* Myths and Facts
+* Conclusion
 _________________________________________________________________
 
 More 500 Linux commands HERE: [eBook with over 500 Linux commands](https://www.linuxpro.com.br/dl/guia_500_comandos_Linux.pdf)
