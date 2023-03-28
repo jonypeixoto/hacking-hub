@@ -334,6 +334,12 @@ A user submits a query to search...
     <br>
   
 </h1>
+
+<h1 align="center">
+    <img alt="Hacking Tips and Tools" src="https://github.com/jonypeixoto/jonypeixoto/raw/main/assets/Search-Engine-Hacking-tips2.png" />
+    <br>
+  
+</h1>
 _________________________________________________________________
 
 # SECTION 3: UDERSTANDING THE STRUCTURE QUERY
