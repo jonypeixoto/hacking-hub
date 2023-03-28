@@ -340,6 +340,18 @@ A user submits a query to search...
     <br>
   
 </h1>
+
+<br>
+
+* What is SEO and how it helps in Google Hacking 
+
+SEO = Search Engine Optimization
+
+<h1 align="center">
+    <img alt="Hacking Tips and Tools" src="https://github.com/jonypeixoto/jonypeixoto/raw/main/assets/Search-Engine-Hacking-tips3.png" />
+    <br>
+  
+</h1>
 _________________________________________________________________
 
 # SECTION 3: UDERSTANDING THE STRUCTURE QUERY
