@@ -604,6 +604,51 @@ Using Archive.org and searching about the webpage, you can see other versions of
 
 <br>
 
+Filetype type is used to limit results to a specific file type.
+
+For example,
+filetype:rtf galway will search for RTF files with the term "galwat" in them.
+
+<h1 align="center">
+    <img alt="Hacking Tips and Tools" src="https://github.com/jonypeixoto/jonypeixoto/raw/main/assets/Search-Engine-Hacking-tips26.png" />
+    <br>
+  
+</h1>
+
+<br>
+
+<h1 align="center">
+    <img alt="Hacking Tips and Tools" src="https://github.com/jonypeixoto/jonypeixoto/raw/main/assets/Search-Engine-Hacking-tips27.png" />
+    <br>
+  
+</h1>
+
+<br>
+
+<h1 align="center">
+    <img alt="Hacking Tips and Tools" src="https://github.com/jonypeixoto/jonypeixoto/raw/main/assets/Search-Engine-Hacking-tips28.png" />
+    <br>
+  
+</h1>
+
+<br>
+
+intext
+
+Find pages containing a certain word(or words) somewhere in the content
+
+Example: intext:apple
+
+<h1 align="center">
+    <img alt="Hacking Tips and Tools" src="https://github.com/jonypeixoto/jonypeixoto/raw/main/assets/Search-Engine-Hacking-tips29.png" />
+    <br>
+  
+</h1>
+
+<br>
+
+
+
 * Preventing Google Dorks
 
 <h1 align="center">
