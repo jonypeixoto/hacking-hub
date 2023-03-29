@@ -501,6 +501,46 @@ will return only documents that have both "google" and "search" in the url.
 
 <br>
 
+intitle
+
+If you include [intittle:] in your query,
+Google will restrict the results to documents containing that word in the title.
+
+For instance, [intitle: google search] will return documents that mention the word "google" in their title, and mention the word "search" anywhere in the document(title or no).
+
+Note there can be no space between the "intitle:" and the following word.
+
+<h1 align="center">
+    <img alt="Hacking Tips and Tools" src="https://github.com/jonypeixoto/jonypeixoto/raw/main/assets/Search-Engine-Hacking-tips17.png" />
+    <br>
+  
+</h1>
+
+<br>
+
+allintitle
+
+only returns results that contain every word in the title.
+
+Example: [allintitle: marketing strategy]
+The result will contain both marketing and strategy in title
+
+<h1 align="center">
+    <img alt="Hacking Tips and Tools" src="https://github.com/jonypeixoto/jonypeixoto/raw/main/assets/Search-Engine-Hacking-tips18.png" />
+    <br>
+  
+</h1>
+
+<br>
+
+<h1 align="center">
+    <img alt="Hacking Tips and Tools" src="https://github.com/jonypeixoto/jonypeixoto/raw/main/assets/Search-Engine-Hacking-tips19.png" />
+    <br>
+  
+</h1>
+
+<br>
+
 * Preventing Google Dorks
 
 <h1 align="center">
