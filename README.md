@@ -692,6 +692,58 @@ These are all the Excel sheet with passwords of various assets, all companies or
 
 <br>
 
+Other Google search engine template styles:
+
+Google Gravity
+
+Put:
+
+google:gravity and click the first link
+
+https://mrdoob.com/projects/chromeexperiments/google-gravity/
+
+<h1 align="center">
+    <img alt="Hacking Tips and Tools" src="https://github.com/jonypeixoto/jonypeixoto/raw/main/assets/Search-Engine-Hacking-tips34.png" />
+    <br>
+  
+</h1>
+
+<br>
+
+Google Sphere
+
+Put:
+
+google:sphere and click the first link
+
+https://mrdoob.com/projects/chromeexperiments/google-sphere/
+
+Google Easter Eggs Official
+
+Put:
+
+google:mirror and click the first link
+
+https://elgoog.im/
+
+Google Terminal
+
+Put:
+
+google terminal and click the first link
+
+Google Guitar
+
+Put:
+
+google guitar and click the first link
+
+Google Zipper
+
+Put:
+
+google zipper and click the first link
+
 * Preventing Google Dorks
 
 <h1 align="center">
