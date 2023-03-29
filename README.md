@@ -540,6 +540,70 @@ The result will contain both marketing and strategy in title
 
 <br>
 
+link
+
+Link will list webpages that have links to the specified webpage.
+
+For instance, [link:udemy.com] will list webpages that have links pointing to the Google homepage.
+
+<h1 align="center">
+    <img alt="Hacking Tips and Tools" src="https://github.com/jonypeixoto/jonypeixoto/raw/main/assets/Search-Engine-Hacking-tips20.png" />
+    <br>
+  
+</h1>
+
+<br>
+
+Cache
+
+A cache is a reserved storage location that collects temporary data to help websites, browsers, and apps load faster.
+
+If you include other words in the query, Google will highlight those words within the cached document.
+
+[cache:www.google.com web] will show Google's cache of the Google homepage.
+
+Using Archive.org and searching about the webpage, you can see other versions of the website.
+
+<h1 align="center">
+    <img alt="Hacking Tips and Tools" src="https://github.com/jonypeixoto/jonypeixoto/raw/main/assets/Search-Engine-Hacking-tips21.png" />
+    <br>
+  
+</h1>
+
+<br>
+
+<h1 align="center">
+    <img alt="Hacking Tips and Tools" src="https://github.com/jonypeixoto/jonypeixoto/raw/main/assets/Search-Engine-Hacking-tips22.png" />
+    <br>
+  
+</h1>
+
+<br>
+
+<h1 align="center">
+    <img alt="Hacking Tips and Tools" src="https://github.com/jonypeixoto/jonypeixoto/raw/main/assets/Search-Engine-Hacking-tips23.png" />
+    <br>
+  
+</h1>
+
+<br>
+
+<h1 align="center">
+    <img alt="Hacking Tips and Tools" src="https://github.com/jonypeixoto/jonypeixoto/raw/main/assets/Search-Engine-Hacking-tips24.png" />
+    <br>
+  
+</h1>
+
+<br>
+
+<h1 align="center">
+    <img alt="Hacking Tips and Tools" src="https://github.com/jonypeixoto/jonypeixoto/raw/main/assets/Search-Engine-Hacking-tips25.png" />
+    <br>
+  
+</h1>
+
+<br>
+
 * Preventing Google Dorks
 
 <h1 align="center">
