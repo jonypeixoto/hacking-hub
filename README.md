@@ -647,7 +647,50 @@ Example: intext:apple
 
 <br>
 
+intitle:"Index of"
 
+Shows all results from the index of directory indexed by Google.
+
+<h1 align="center">
+    <img alt="Hacking Tips and Tools" src="https://github.com/jonypeixoto/jonypeixoto/raw/main/assets/Search-Engine-Hacking-tips30.png" />
+    <br>
+  
+</h1>
+
+<br>
+
+<h1 align="center">
+    <img alt="Hacking Tips and Tools" src="https://github.com/jonypeixoto/jonypeixoto/raw/main/assets/Search-Engine-Hacking-tips31.png" />
+    <br>
+  
+</h1>
+
+<br>
+
+intitle:"Index of" config.php
+
+Global folder contains a unique setting of your farm tools, installation, your database, connection
+
+<h1 align="center">
+    <img alt="Hacking Tips and Tools" src="https://github.com/jonypeixoto/jonypeixoto/raw/main/assets/Search-Engine-Hacking-tips32.png" />
+    <br>
+  
+</h1>
+
+<br>
+
+login: "password=" filetype:xls
+
+These are all the Excel sheet with passwords of various assets, all companies or whatever.
+
+
+<h1 align="center">
+    <img alt="Hacking Tips and Tools" src="https://github.com/jonypeixoto/jonypeixoto/raw/main/assets/Search-Engine-Hacking-tips33.png" />
+    <br>
+  
+</h1>
+
+<br>
 
 * Preventing Google Dorks
 
