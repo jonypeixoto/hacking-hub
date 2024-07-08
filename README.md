@@ -840,7 +840,7 @@ Made with ♥ by Jony Peixoto :wave: [Get in touch!](https://jonypeixoto.substac
 
 
 <h1 align="center">
-    <img alt="Prompt Engineering" height="375" width="250" src="https://github.com/jonypeixoto/jonypeixoto/raw/main/assets/ebook-prompt-engineering.png" />
+    <img alt="Prompt Engineering" src="https://github.com/jonypeixoto/jonypeixoto/raw/main/assets/ebook-prompt-engineering.png" />
     <br>
 
   
