@@ -809,12 +809,35 @@ _________________________________________________________________
 
 More 500 Linux commands HERE: [eBook with over 500 Linux commands](https://www.linuxpro.com.br/dl/guia_500_comandos_Linux.pdf)
 
+_________________________________________________________________
+
+### My books involving hacking:
+
+<br>
+
+<h1 align="center">
+    <img alt="Prompt Engineering" src="https://github.com/jonypeixoto/jonypeixoto/raw/main/assets/ebook-prompt-engineering.png" />
+    <br>
+  
+</h1>
+
+<br>
+<br>
+
+<h1 align="center">
+    <img alt="Hacking the Human Being" src="https://github.com/jonypeixoto/jonypeixoto/raw/main/assets/ebook-hacking-the-human-being.png" />
+    <br>
+  
+</h1>
+
+<br>
+
 ## :memo: License
 This project is under the MIT license. See the [LICENSE](https://github.com/jonypeixoto/hacking-tips-and-tools/blob/main/LICENSE) for more information.
 
 ## :star2: Author
 
-Made with ♥ by Jony Peixoto :wave: [Get in touch!](https://jonypeixoto.com)
+Made with ♥ by Jony Peixoto :wave: [Get in touch!](https://jonypeixoto.substack.com)
 
 <br/>
 
@@ -826,9 +849,9 @@ Made with ♥ by Jony Peixoto :wave: [Get in touch!](https://jonypeixoto.com)
 
 ### LIVES:
 
-TikTok: [Jony Tech @jonypeixoto](https://jonypeixoto.com/tiktok)
+TikTok: [Jony Tech @jonypeixoto](https://tiktok.com/@superinsights)
 
-YouTube: [Jony Peixoto](https://jonypeixoto.com/youtube)
+YouTube: [Jony Peixoto](https://youtube.com/@JonyPeixotoTV)
 
-Twitch: [Jony Peixoto](https://jonypeixoto.com/twitch)
+Twitch: [Jony Peixoto](https://twitch.tv/jonypeixoto)
 
