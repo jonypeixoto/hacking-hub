@@ -811,26 +811,6 @@ More 500 Linux commands HERE: [eBook with over 500 Linux commands](https://www.l
 
 _________________________________________________________________
 
-### My books involving hacking:
-
-<br>
-
-<h1 align="center">
-    <img alt="Prompt Engineering" src="https://github.com/jonypeixoto/jonypeixoto/raw/main/assets/ebook-prompt-engineering.png" />
-    <br>
-  
-</h1>
-
-<br>
-<br>
-
-<h1 align="center">
-    <img alt="Hacking the Human Being" src="https://github.com/jonypeixoto/jonypeixoto/raw/main/assets/ebook-hacking-the-human-being.png" />
-    <br>
-  
-</h1>
-
-<br>
 
 ## :memo: License
 This project is under the MIT license. See the [LICENSE](https://github.com/jonypeixoto/hacking-tips-and-tools/blob/main/LICENSE) for more information.
@@ -841,17 +821,37 @@ Made with ♥ by Jony Peixoto :wave: [Get in touch!](https://jonypeixoto.substac
 
 <br/>
 
-<a href="https://www.jonypeixoto.com" target="_blank">
+<a href="https://www.jonypeixoto.substack.com" target="_blank">
   <code><img alt="Jony Peixoto Official Website" height="30" width="130" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></code>
 </a>
 
 <br/>
 
-### LIVES:
+### LIVES / BOOKS:
+
+<h1 align="center">
+    <img alt="Hacking the Human Being" height="375" width="250" src="https://github.com/jonypeixoto/jonypeixoto/raw/main/assets/ebook-hacking-the-human-being.png" />
+    <br>
+
+</h1>
+
+<br>
+<br>
+
+
+<h1 align="center">
+    <img alt="Prompt Engineering" height="375" width="250" src="https://github.com/jonypeixoto/jonypeixoto/raw/main/assets/ebook-prompt-engineering.png" />
+    <br>
+
+  
+</h1>
+
+<br>
 
 TikTok: [Jony Tech @jonypeixoto](https://tiktok.com/@superinsights)
 
 YouTube: [Jony Peixoto](https://youtube.com/@JonyPeixotoTV)
 
 Twitch: [Jony Peixoto](https://twitch.tv/jonypeixoto)
+
 
